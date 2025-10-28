@@ -1,8 +1,8 @@
 # DDRO-DA-TOP-CWL
-#  Data-Driven Robust Optimization of Team Orienteering for Resilient Emergency Logistics Operations
+#  Data-Driven Robust Optimization for Drone-Assisted Team Orienteering with Continuous Warehouse Location and Emergency Routing
 
-This repository contains the GAMS implementation of a **tri-objective optimization model** for integrated air-ground emergency logistics under demand uncertainty.  
-The model coordinates **drones and ambulances** to improve supply chain resilience, while considering **facility location, regional clustering, and independent routing**.  
+This repository contains the GAMS implementation of a **tri-objective optimization model** for Drone-Assisted emergency logistics under demand uncertainty.  
+The model coordinates **drones** to improve supply chain resilience, while considering **facility location, regional clustering, and independent routing**.  
 
 ---
 
